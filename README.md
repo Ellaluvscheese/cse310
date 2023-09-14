@@ -6,7 +6,7 @@ This is a python file that uses a print statement to display a message to the sc
 
 The purpose of this software is to welcome the user to the programming world.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=AyRn49x0oYY&ab_channel=EllaGalbraith)
 
 # Development Environment
 
